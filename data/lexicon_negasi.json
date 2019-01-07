@@ -1,0 +1,20 @@
+[
+{"type":"header","version":"4.8.4","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"db_tweet"},
+{"type":"table","name":"lexicon_negasi","database":"db_tweet","data":
+[
+{"id":"1","negasi":"belum"},
+{"id":"2","negasi":"belum pernah"},
+{"id":"3","negasi":"bukan"},
+{"id":"4","negasi":"tidak "},
+{"id":"5","negasi":"tidak akan"},
+{"id":"6","negasi":"tidak bisa"},
+{"id":"7","negasi":"tidak seharusnya"},
+{"id":"8","negasi":"tidak pernah"},
+{"id":"9","negasi":"kurang"},
+{"id":"10","negasi":"tanpa"},
+{"id":"11","negasi":"jangan"},
+{"id":"12","negasi":"tidak mungkin"}
+]
+}
+]
